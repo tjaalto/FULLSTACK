@@ -1,0 +1,16 @@
+title  Exercise 0.6
+note over browser:
+User give input into the text field
+and clicks the submit button
+end note
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+note over server:
+Server responds with HTTP status code 201,
+which doesn't force the page to reload
+end note
+server-->browser: HTTP status code 201 
+server-->browser: {"message":"note created"}
+note over browser:
+Browser executes the event handler
+that renders notes to display
+end note
