@@ -7,3 +7,4 @@ The course covers testing, configuration and environment management, and the use
 
 ### 0️⃣[Fundamentals of Web apps](https://github.com/tjaalto/FULLSTACK/tree/main/part0)
 ### 1️⃣[Introduction to React](https://github.com/tjaalto/FULLSTACK/tree/main/part1)
+### 2️⃣ [Communicating with server](https://github.com/tjaalto/FULLSTACK/tree/main/part2)
