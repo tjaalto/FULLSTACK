@@ -6,3 +6,4 @@ This course serves as an introduction to modern web application development with
 The course covers testing, configuration and environment management, and the use of MongoDB for storing the application’s data.
 
 ### 0️⃣[Fundamentals of Web apps](https://github.com/tjaalto/FULLSTACK/tree/main/part0)
+### 1️⃣[Introduction to React](https://github.com/tjaalto/FULLSTACK/tree/main/part1)
