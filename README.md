@@ -10,6 +10,6 @@ The course covers testing, configuration and environment management, and the use
 ### 2️⃣[Communicating with server](https://github.com/tjaalto/FULLSTACK/tree/main/part2)
 ### 3️⃣[Programming a server with NodeJS and Express](https://github.com/tjaalto/FULLSTACK/tree/main/part3)
 ### 4️⃣[Testing Express servers, user administration](https://github.com/tjaalto/FULLSTACK/tree/main/part4)
-### 5️⃣[CTesting React apps](https://github.com/tjaalto/FULLSTACK/tree/main/part5)
+### 5️⃣[Testing React apps](https://github.com/tjaalto/FULLSTACK/tree/main/part5)
 ### 6️⃣[State management with Redux](https://github.com/tjaalto/FULLSTACK/tree/main/part6)
 ### 7️⃣[React router, custom hooks, styling app with CSS and webpack](https://github.com/tjaalto/FULLSTACK/tree/main/part7)
